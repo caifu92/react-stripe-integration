@@ -1,18 +1,4 @@
-<p align="center" >
-  <a href="https://reactjs.org/" rel="noopener" target="_blank">
-    <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS logo">
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://material-ui.com/" rel="noopener" target="_blank">
-    <img height="80" src="https://material-ui.com/static/logo_raw.svg" alt="Material-UI logo">
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://stripe.com/" rel="noopener" target="_blank">
-    <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe logo">
-  </a>
-</p>
-
-<h1 align="center">REACT MATERIAL-UI STRIPE PAYMENT FORM</h1>
+<h1 align="center">REACT STRIPE INTEGRATION</h1>
 
 <div align="center">
 
@@ -21,27 +7,7 @@ All those libraries put together in a nice interface easy to use and implement.
 </div>
 
 ## Installation
-
-<!-- Available as an [npm package](https://www.npmjs.com/package/react-material-ui-stripe-payment-form). -->
-
-```sh
-// with git
-git clone https://gitlab.com/angeloron/react-material-ui-stripe-payment-form
-```
-
-## Sponsor this project
-
-via [Patreon](https://www.patreon.com/angeloron)
-
-## Examples
-
-A live demo is available [here](https://angeloron.gitlab.io/react-material-ui-stripe-payment-form/).
-
-<img width="600px" src="./preview.gif" alt="preview">
-
-## Documentation
-
-Find a detailed documentation [here](https://t.co/ylkqiFJ64u?amp=1&fbclid=IwAR24ciJ4hhnHxdwKhAM3VyD8sb75j_rl0jUoebgkLUXTsuRLvzSUBnJrcSo)
+clone repository
 
 ## Usage
 
